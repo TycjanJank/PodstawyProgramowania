@@ -1,0 +1,17 @@
+C:\Users\tycja\PodstawyProgramowaniaREPO\PodstawyProgramowania\ProjektNet\bin\Debug\net11.0\ProjektNet.exe
+C:\Users\tycja\PodstawyProgramowaniaREPO\PodstawyProgramowania\ProjektNet\bin\Debug\net11.0\ProjektNet.deps.json
+C:\Users\tycja\PodstawyProgramowaniaREPO\PodstawyProgramowania\ProjektNet\bin\Debug\net11.0\ProjektNet.runtimeconfig.json
+C:\Users\tycja\PodstawyProgramowaniaREPO\PodstawyProgramowania\ProjektNet\bin\Debug\net11.0\ProjektNet.runtimeconfig.dev.json
+C:\Users\tycja\PodstawyProgramowaniaREPO\PodstawyProgramowania\ProjektNet\bin\Debug\net11.0\ProjektNet.dll
+C:\Users\tycja\PodstawyProgramowaniaREPO\PodstawyProgramowania\ProjektNet\bin\Debug\net11.0\ProjektNet.pdb
+C:\Users\tycja\PodstawyProgramowaniaREPO\PodstawyProgramowania\ProjektNet\obj\Debug\net11.0\ProjektNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tycja\PodstawyProgramowaniaREPO\PodstawyProgramowania\ProjektNet\obj\Debug\net11.0\ProjektNet.AssemblyInfoInputs.cache
+C:\Users\tycja\PodstawyProgramowaniaREPO\PodstawyProgramowania\ProjektNet\obj\Debug\net11.0\ProjektNet.AssemblyInfo.cs
+C:\Users\tycja\PodstawyProgramowaniaREPO\PodstawyProgramowania\ProjektNet\obj\Debug\net11.0\ProjektNet.csproj.CoreCompileInputs.cache
+C:\Users\tycja\PodstawyProgramowaniaREPO\PodstawyProgramowania\ProjektNet\obj\Debug\net11.0\ProjektNet.sourcelink.json
+C:\Users\tycja\PodstawyProgramowaniaREPO\PodstawyProgramowania\ProjektNet\obj\Debug\net11.0\ProjektNet.dll
+C:\Users\tycja\PodstawyProgramowaniaREPO\PodstawyProgramowania\ProjektNet\obj\Debug\net11.0\refint\ProjektNet.dll
+C:\Users\tycja\PodstawyProgramowaniaREPO\PodstawyProgramowania\ProjektNet\obj\Debug\net11.0\ProjektNet.pdb
+C:\Users\tycja\PodstawyProgramowaniaREPO\PodstawyProgramowania\ProjektNet\obj\Debug\net11.0\ProjektNet.genruntimeconfig.cache
+C:\Users\tycja\PodstawyProgramowaniaREPO\PodstawyProgramowania\ProjektNet\obj\Debug\net11.0\ref\ProjektNet.dll
+C:\Users\tycja\PodstawyProgramowaniaREPO\PodstawyProgramowania\ProjektNet\obj\Debug\net11.0\ProjektNet.csproj.Up2Date
